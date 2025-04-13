@@ -1,0 +1,19 @@
+{
+  "name": "major-minor-patch-demo",
+  "version": "1.0.0",
+  "description": "Small project for demo purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azatdavliatshin/major-minor-patch-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azatdavliatshin/major-minor-patch-demo/issues"
+  },
+  "homepage": "https://github.com/azatdavliatshin/major-minor-patch-demo#readme"
+}
